@@ -29,4 +29,13 @@ Q3)  For a 2D grid , With Well Defined Start & End Point , I would Choose Manhat
 
     The criteria for Similarity b/w 2 vectors used , is cosine similarity , its the angle b/w 2 vectors divide by their magnitude . If cosine similarity Of 2 vectors is Higher , Then Their Likeliness is more 
 
-    
+
+
+
+
+
+
+sources :
+    freecodecamp.org(I tried to learn CNN , but unable to implement in time , due to unable to install dataset , library , etc)
+    medium.com
+    random google search
